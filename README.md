@@ -49,7 +49,7 @@ A small Description:<ol>
 <li>tagging - as in multibranch pipleine it is best-practice to give the image tags. The purpose of the tags is to mark the image for version tracking.
 The efficient and correct way is marking the image with 'major.minor.patch number (the example in our case meir215/guess:1.0.1). in this way we will be able to follow the app virsions rether its a major change or a small one. in the 'latest' tag we will use in the latest stable working virsion.</li>
 
-The github repo:
+The github repo that i worked with in this project (pull and push codes):
 
 >https://github.com/meirya21/guess
 
